@@ -1,0 +1,283 @@
+FinalSun log file
+-----------------
+
+CFinalSunApp::CFinalSunApp() called
+
+
+
+CLoading::CLoading() called
+CFinalSunDlg::OnInitDialog() called
+Updating menu
+CLoading::Load() called
+
+Initializing FSunPackLib::XCC
+Initializing mix files
+InitMixFiles() called. Available memory: 2147483646
+Loading TibSun.mix success
+Loading local.mix successful
+Loading conquer.mix, temperat.mix, isotemp.mix, isosnow.mix, isourb.mix and cache.mix successful
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand00.mix
+D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand00.mix found: loading 
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand01.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand02.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand03.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand04.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand05.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand06.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand07.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand08.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand09.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand10.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand11.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand12.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand13.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand14.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand15.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand16.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand17.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand18.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand19.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand20.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand21.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand22.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand23.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand24.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand25.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand26.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand27.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand28.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand29.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand30.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand31.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand32.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand33.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand34.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand35.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand36.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand37.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand38.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand39.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand40.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand41.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand42.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand43.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand44.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand45.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand46.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand47.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand48.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand49.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand50.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand51.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand52.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand53.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand54.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand55.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand56.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand57.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand58.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand59.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand60.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand61.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand62.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand63.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand64.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand65.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand66.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand67.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand68.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand69.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand70.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand71.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand72.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand73.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand74.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand75.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand76.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand77.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand78.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand79.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand80.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand81.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand82.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand83.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand84.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand85.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand86.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand87.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand88.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand89.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand90.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand91.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand92.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand93.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand94.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand95.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand96.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand97.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand98.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\Expand99.mix
+Searching D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\ra2md.mix
+D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\ECache00.mix found and loaded
+D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\\MIX\ECache01.mix found and loaded
+InitMixFiles() finished. Available memory: 2147483646
+InitPalettes() called
+IsoUrb.pal failed
+IsoLun.pal failed
+IsoDes.pal failed
+IsoUbn.pal failed
+UnitUrb.pal failed
+UnitLun.pal failed
+UnitDes.pal failed
+UnitUbn.pal failed
+Urban.pal failed
+lunar.pal failed
+desert.pal failed
+urbann.pal failed
+lib.pal failed
+
+LoadTSIni(INI\RULES.INI,007DCCE8,0) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(INI\FSR.INI,01398B6C,1) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(INI\ART.INI,007DCBB8,0) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(INI\ARTFS.INI,01398B6C,1) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(INI\TUTORIAL.INI,007DC870,0) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(Sound99.ini,007DC988,0) called
+LoadTSIni(Sound98.ini,007DC988,0) called
+LoadTSIni(Sound97.ini,007DC988,0) called
+LoadTSIni(Sound96.ini,007DC988,0) called
+LoadTSIni(Sound95.ini,007DC988,0) called
+LoadTSIni(Sound94.ini,007DC988,0) called
+LoadTSIni(Sound93.ini,007DC988,0) called
+LoadTSIni(Sound92.ini,007DC988,0) called
+LoadTSIni(Sound91.ini,007DC988,0) called
+LoadTSIni(Sound90.ini,007DC988,0) called
+LoadTSIni(Sound89.ini,007DC988,0) called
+LoadTSIni(Sound88.ini,007DC988,0) called
+LoadTSIni(Sound87.ini,007DC988,0) called
+LoadTSIni(Sound86.ini,007DC988,0) called
+LoadTSIni(Sound85.ini,007DC988,0) called
+LoadTSIni(Sound84.ini,007DC988,0) called
+LoadTSIni(Sound83.ini,007DC988,0) called
+LoadTSIni(Sound82.ini,007DC988,0) called
+LoadTSIni(Sound81.ini,007DC988,0) called
+LoadTSIni(Sound80.ini,007DC988,0) called
+LoadTSIni(Sound79.ini,007DC988,0) called
+LoadTSIni(Sound78.ini,007DC988,0) called
+LoadTSIni(Sound77.ini,007DC988,0) called
+LoadTSIni(Sound76.ini,007DC988,0) called
+LoadTSIni(Sound75.ini,007DC988,0) called
+LoadTSIni(Sound74.ini,007DC988,0) called
+LoadTSIni(Sound73.ini,007DC988,0) called
+LoadTSIni(Sound72.ini,007DC988,0) called
+LoadTSIni(Sound71.ini,007DC988,0) called
+LoadTSIni(Sound70.ini,007DC988,0) called
+LoadTSIni(Sound69.ini,007DC988,0) called
+LoadTSIni(Sound68.ini,007DC988,0) called
+LoadTSIni(Sound67.ini,007DC988,0) called
+LoadTSIni(Sound66.ini,007DC988,0) called
+LoadTSIni(Sound65.ini,007DC988,0) called
+LoadTSIni(Sound64.ini,007DC988,0) called
+LoadTSIni(Sound63.ini,007DC988,0) called
+LoadTSIni(Sound62.ini,007DC988,0) called
+LoadTSIni(Sound61.ini,007DC988,0) called
+LoadTSIni(Sound60.ini,007DC988,0) called
+LoadTSIni(Sound59.ini,007DC988,0) called
+LoadTSIni(Sound58.ini,007DC988,0) called
+LoadTSIni(Sound57.ini,007DC988,0) called
+LoadTSIni(Sound56.ini,007DC988,0) called
+LoadTSIni(Sound55.ini,007DC988,0) called
+LoadTSIni(Sound54.ini,007DC988,0) called
+LoadTSIni(Sound53.ini,007DC988,0) called
+LoadTSIni(Sound52.ini,007DC988,0) called
+LoadTSIni(Sound51.ini,007DC988,0) called
+LoadTSIni(Sound50.ini,007DC988,0) called
+LoadTSIni(Sound49.ini,007DC988,0) called
+LoadTSIni(Sound48.ini,007DC988,0) called
+LoadTSIni(Sound47.ini,007DC988,0) called
+LoadTSIni(Sound46.ini,007DC988,0) called
+LoadTSIni(Sound45.ini,007DC988,0) called
+LoadTSIni(Sound44.ini,007DC988,0) called
+LoadTSIni(Sound43.ini,007DC988,0) called
+LoadTSIni(Sound42.ini,007DC988,0) called
+LoadTSIni(Sound41.ini,007DC988,0) called
+LoadTSIni(Sound40.ini,007DC988,0) called
+LoadTSIni(Sound39.ini,007DC988,0) called
+LoadTSIni(Sound38.ini,007DC988,0) called
+LoadTSIni(Sound37.ini,007DC988,0) called
+LoadTSIni(Sound36.ini,007DC988,0) called
+LoadTSIni(Sound35.ini,007DC988,0) called
+LoadTSIni(Sound34.ini,007DC988,0) called
+LoadTSIni(Sound33.ini,007DC988,0) called
+LoadTSIni(Sound32.ini,007DC988,0) called
+LoadTSIni(Sound31.ini,007DC988,0) called
+LoadTSIni(Sound30.ini,007DC988,0) called
+LoadTSIni(Sound29.ini,007DC988,0) called
+LoadTSIni(Sound28.ini,007DC988,0) called
+LoadTSIni(Sound27.ini,007DC988,0) called
+LoadTSIni(Sound26.ini,007DC988,0) called
+LoadTSIni(Sound25.ini,007DC988,0) called
+LoadTSIni(Sound24.ini,007DC988,0) called
+LoadTSIni(Sound23.ini,007DC988,0) called
+LoadTSIni(Sound22.ini,007DC988,0) called
+LoadTSIni(Sound21.ini,007DC988,0) called
+LoadTSIni(Sound20.ini,007DC988,0) called
+LoadTSIni(Sound19.ini,007DC988,0) called
+LoadTSIni(Sound18.ini,007DC988,0) called
+LoadTSIni(Sound17.ini,007DC988,0) called
+LoadTSIni(Sound16.ini,007DC988,0) called
+LoadTSIni(Sound15.ini,007DC988,0) called
+LoadTSIni(Sound14.ini,007DC988,0) called
+LoadTSIni(Sound13.ini,007DC988,0) called
+LoadTSIni(Sound12.ini,007DC988,0) called
+LoadTSIni(Sound11.ini,007DC988,0) called
+LoadTSIni(Sound10.ini,007DC988,0) called
+LoadTSIni(Sound09.ini,007DC988,0) called
+LoadTSIni(Sound08.ini,007DC988,0) called
+LoadTSIni(Sound07.ini,007DC988,0) called
+LoadTSIni(Sound06.ini,007DC988,0) called
+LoadTSIni(Sound05.ini,007DC988,0) called
+LoadTSIni(Sound04.ini,007DC988,0) called
+LoadTSIni(Sound03.ini,007DC988,0) called
+LoadTSIni(Sound02.ini,007DC988,0) called
+LoadTSIni(Sound01.ini,007DC988,0) called
+LoadTSIni(INI\SOUND.INI,007DC988,0) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(eva.ini,007DC758,0) called
+LoadTSIni(INI\THEME.INI,007DC640,0) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(INI\AI.INI,007DCAA0,0) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(INI\AIFS.INI,007DCAA0,1) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(INI\TEMPERAT.INI,007DC2F8,0) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(INI\SNOW.INI,007DC1E0,0) called
+File found in TS directory (D:\_DATA\Projects\Modding\TS\Client(s)\TS_Expansion_dev\)
+LoadTSIni(Urban.ini,007DC0C8,0) called
+
+
+DirectDrawCreate() will be called now
+DirectDrawCreate() successful
+
+Now querying the DirectX 7 or 6 interface
+QueryInterface() successful
+
+Now setting cooperative level
+SetCooperativeLevel() successful
+
+Creating primary surface
+Return code: 0
+CreateSurface() successful
+
+Creating backbuffer surface
+CreateSurface() successful
+
+Now creating clipper
+CreateClipper() successful
+
+CLoading::~CLoading finished. Available memory: 2147483646

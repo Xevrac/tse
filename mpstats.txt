@@ -1,0 +1,7 @@
+Frames: 1145
+Average FPS: 56
+Max MaxAhead: 0
+Latency setting: 0
+Game speed setting: 1
+Local address: 172.19.112.1
+Local address: 10.0.0.99
