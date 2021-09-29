@@ -1,4 +1,4 @@
-Version 1.00 (3rd September, 2021):
+Version 0.01 (3rd September, 2021):
 - Implemented custom menu elements
 - Implemented DTAUpdater functions for TSE
 - Custom client modifications to allow for expansion of vanilla client
