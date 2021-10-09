@@ -3,4 +3,5 @@ Version 0.01 (3rd September, 2021):
 - Implemented DTAUpdater functions for TSE
 - Custom client modifications to allow for expansion of vanilla client
 - Added Forgotten as playable faction (placeholder Tech Tree & Roster temporarily)
-- Custom main menu soundtrack - "Black Dawn from Command and Conquer 3 TW"
+- Added main menu soundtrack - "Black Dawn" from Command and Conquer 3 TW
+- Added custom main menu sfx
