@@ -1,7 +1,10 @@
 Version 0.01 (3rd September, 2021):
-- Implemented custom UI elements
-- Implemented DTAUpdater functions for TSE
-- Custom client modifications to allow for expansion of vanilla client
+- Added custom UI elements
+- Added DTAUpdater functions for TSE
 - Added Forgotten as playable faction (placeholder Tech Tree & Roster temporarily)
 - Added main menu soundtrack - "Black Dawn" from Command and Conquer 3 TW
 - Added custom main menu sfx
+- Added Pilot for aircraft ejection
+- Modified Production limit
+- Enabled Multi-Factory bonus by default
+- game.exe modifications & hacks to allow for expansion of vanilla client
